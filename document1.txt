@@ -1,6 +1,5 @@
 import random
 data = []
-data.append(random.randint(5))
+data.append(random.randint(10))
 for i in range(len(data)):
-     data[i] += i
-print(data)
+     print(data[i])
