@@ -1,4 +1,4 @@
-import random
+import numpy
 a = random.randint(10)
 count = 0
 if a >= 5:
